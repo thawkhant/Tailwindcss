@@ -1,0 +1,43 @@
+https://tailwindcss.com
+
+Intergrate Methods
+1.Using CDN Link ( Content Deliver Network );
+2.Using Tailwind CLI
+3.Using PostCSS
+
+
+(1).CDN a twint js file ko you lar pee title out mar chake lite dar
+code chake mi lar ma mi bu lar thi chin yin h1 size ka small twar lake ml
+
+
+(2).Using PostCSS
+=open folder "usingpostcss4"
+=open terminal
+=npm install -D tailwindcss postcss autoprefixer
+=npx tailwindcss init = create tailwindcss file ko lote dr sir
+
+=Add PostCSS file
+=go to tailwind.config.js
+
+
+=and write down in content:["./public/**/*.html"]    
+
+. = current folder
+** = all folder of inside of public file
+* = all html files
+
+
+=>Create Tailwnd main files
+=>create new folder and naming tailwind
+=create new file and maing "main.css"
+
+
+
+
+
+
+Terminam = VS code
+node -v ka node js ye version ko sint dar     // de kaung ka tailwincss init mar par lar bee thar
+
+
+
